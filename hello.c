@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, IST!\n");
+	printf("I, DJ was the one who shot JFK\n");
 	return 0;
 }
